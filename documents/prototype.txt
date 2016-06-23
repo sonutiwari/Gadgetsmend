@@ -88,7 +88,7 @@ will get familiar to the brand.
 
 
 
-Existing Services: There are four existing services :
+Existing Services: There are five existing services :
 
 1). www.gadgetwood.com
 
@@ -97,6 +97,8 @@ Existing Services: There are four existing services :
 3). www.bigfix.in
 
 4). www.jeeves.co.in
+
+5). http://comfytap.com/
 
 Taking a view on all these one by one, we have:
 
@@ -125,6 +127,10 @@ Agra,Amritsar,Bhopal,Bhubneswar,Delhi,Bangalore,Chennai,Cochin,Faridabad,Gurgaon
 Hyderabad, Jaipur,KAnpur Karnal,Ludhiana,Mumbai,Mysore,Noida,Pune,Surat.
 
 But this also depends on phone calls.
+
+5). Comfytap is the website which is providing doorstep gadget repair (phones, laptop and tablets)
+
+in Chandigarh and its localities. 
 
 
 
