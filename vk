@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<html>
+<marquee behavior="slide" direction="left">
+
+<img src="vk2.png" width="400" height="150" alt="gadget">
+<img src="" width="600" height="150" >
+
+</marquee>
+<body background="vk4.png">
+</body>
+    <head>
+	<link rel="stylesheet" href="stylesheet.css">
+        <title>viku</title> 
+         
+    </head>
+    <body>
+
+        <ul id="menu">
+		<li><a href="">Gadgets</a> 
+              <ul> 
+                <li><a href="">Laptop</a></li> 
+                <li><a href="">Desktop</a></li> 
+                <li><a href="">Mobile</a></li> 
+                <li><a href="">cooler</a></li> 
+                <li><a href="">other</a></li> 
+              </ul> 
+            </li>
+            <li><a href="">Contact</a> 
+              <ul> 
+                <li><a href="">Online</a></li> 
+                <li><a href="">Offline</a></li> 
+                <li><a href="">Other</a></li> 
+              </ul> 
+            </li> 
+			<li><a href="">About</a> 
+			<ul>
+                <li><a href="">The Team</a></li>
+                <li><a href="">History</a></li> 
+                <li><a href="">Vision</a></li> 
+              </ul>
+            <li><a href="">Home</a></li> 
+            
+               
+            </li> 
+            
+        </ul>   
+
+    </body>
+</html>
+<body>
+<div id="tfheader">
+		<form id="tfnewsearch" method="get" action="https://github.com/">
+		        <input type="text" class="tftextinput" name="q" size="21" maxlength="120"><input type="submit" value="search" class="tfbutton">
+		</form>
+	<div class="tnothing"></div>
+	</div>
+	
+  <title>GadgetsMend</title>
+  <meta charset="UTF-8">
+  
+</head>
+
+</body>
+</html>
