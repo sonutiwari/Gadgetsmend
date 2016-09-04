@@ -1,3 +1,5 @@
 # GadgetsMend
 #http://www.gadgetsmend.com
-A revolutionary idea
+The purpose of this project is to present a detailed description of the Web and Android application of ‘Gadgetsmend’. This section of our project will explain the purpose and features of the application, the interfaces of the system, how will the system work, the constraints under which it must operate and how the system will react to external stimuli. This section is intended for developers of the system and will be proposed on 2nd October in NIT Raipur in investor meet.
+Web application Gadgetsmend will be such an application in which customers can place an order to repair or service their damaged gadgets like Mobile Phones, Laptops, TV and Refrigerators etc. This system will be helpful for those people who live busy lives and have no time to go to engineers for repairing or servicing their gadgets. This system is designed to provide an online interaction between engineers and customers. 
+                    More specifically customers can explain problems in their gadgets to the engineers without manually approaching them. This system has been prepared by a start-up company Gadgetsmend. This web application can be helpful for customers in saving their precious time. For maintaining integrity between customers’ order and assigned engineer a relational database system will be used.
