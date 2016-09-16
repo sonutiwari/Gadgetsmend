@@ -1,0 +1,66 @@
+
+.container h1{
+    text-align:center;
+    color:#4B0082;
+
+}
+
+.container h4{
+    text-align:center;
+    color:#8B008B;
+}
+
+.Menu_bar .nav-pills .dropdown ul li a{
+    color:#4B0082;
+    padding:5px;
+    margin:5px;
+}    
+
+.Menu_bar .nav-pills .dropdown ul li a:hover{
+    padding:7px;
+    margin:7px;
+    font-weight:bold;
+}
+
+
+.Menu_bar .nav-pills li a{
+    margin-left:15px;
+    color:#4B0082;
+}
+
+.Menu_bar{
+    background-color:#FFF0F5;
+}
+
+.two img{
+    margin-top:100px;
+    margin-left:30px;
+    width:500px;
+    height:300px;
+}
+
+.container h2{
+    text-align:left;
+}
+
+.two .well-lg{
+    margin-top:30px;
+    background-color:#FFF0F5;
+    color:#4B0082;
+    font-size:18px;
+    text-align:justify;
+} 
+.dropdown .btn{
+    margin-top:2px;
+    background-color:#FFF0F5;
+    color:#4B0082;
+}
+
+.dropdown .btn:hover{
+    background-color:white;
+}
+
+ .glyphicon{
+    margin-left:2px;
+    color:#4B0082;
+}

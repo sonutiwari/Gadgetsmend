@@ -1,0 +1,46 @@
+
+.one h1{
+	text-align:center;
+	color:#4B0082;
+}
+
+button {
+	width:250px;
+}
+
+.three a{
+	color:white;
+	font-size:18px;
+	font-weight:bold;
+}
+
+.four a{
+	color:white;
+	font-size:18px;
+	font-weight:bold;
+}
+
+.three a:hover{
+	color:pink;
+	text-decoration:none;
+}
+
+.four a:hover{
+	color:pink;
+	text-decoration:none;
+}
+
+.three .btn{
+	margin-top:30px;
+	background-color:#4B0082;
+}
+
+.four .btn{
+	margin-top:30px;
+	background-color:#4B0082;
+}
+
+.two h4{
+	color:#4B0082;
+	text-align:center;
+}

@@ -1,0 +1,28 @@
+
+.one h1{
+	text-align:center;
+	color:#4B0082;
+}
+
+button {
+	width:200px;
+}
+
+.two .col-xs-5 a{
+	text-align:center;
+    font-size:18px;
+}
+
+.two .col-xs-5 .btn{
+	font-size:18px;
+     color:#4B0082;
+     margin-left:-40px;
+     margin-top:60px;
+}
+.two .col-xs-5 .dropdown-menu{
+	margin-left:-40px;
+	width:200px;
+}
+.two .col-xs-5 .dropdown-menu li{
+	margin-top:10px;
+}

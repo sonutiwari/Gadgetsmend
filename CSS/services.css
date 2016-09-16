@@ -1,0 +1,17 @@
+
+.one h1{
+	text-align:center;
+	color:#4B0082;
+}
+
+
+.two p{
+	color:#4B0082;
+	margin-left:4px;
+	font-weight:bold;
+	font-size: 20px;
+
+}
+.two a{
+	font-size:18px;	
+}

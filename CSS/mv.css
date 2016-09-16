@@ -1,0 +1,13 @@
+.container h1{
+    text-align:center;
+    color:#4B0082;
+}
+
+.container h4{
+    text-align:center;
+    color:#8B008B;
+}
+
+.container .well h1{
+ text-align:left;
+} 
