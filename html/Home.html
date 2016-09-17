@@ -7,10 +7,9 @@
      <meta name="author" content="Sonu Tiwari">
      <meta charset="utf-8">
      <meta name="viewport" content="width=device-width, initial-scale=1">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
      <link rel="stylesheet" href="../CSS/stylesheet.css">
-     <link rel="stylesheet" href="../Inbuilt/bootstrap.min.css">
-     <script src="../Inbuilt/jquery.min.js"></script>
-     <script src="../Inbuilt/bootstrap.min.js"></script>  
+     <link rel="stylesheet" href="../Inbuilt/bootstrap.min.css"> 
   </head>
     
   <body>
@@ -19,7 +18,7 @@
        <div class="jumbotron">
            <div class="row one">
              <div class="col-xs-12 col-md-4">
-			         <a href="Home.html">
+               <a href="Home.html">
                <img src="../Images/logo1.jpg" onclick="Home.html" class="img-responsive" alt="Gadgetsmend logo" style="width:200px;height:100px;"></a>
              </div>
              <div class="col-xs-12 col-md-8">
@@ -30,15 +29,15 @@
         </div>  
       </div>
                  
-      <div class="navbar navbar-default col-lg-12">
-          <ul class="nav nav-pills nav-justified">            
+      <nav class="navbar navbar-default col-lg-12">
+          <ul class="nav nav-pills nav-justified collapse navbar-collapse">            
             <li> 
                <a href="Home.html"> Home <span class="glyphicon glyphicon-home"></span> </a>
             </li>
 
-			      <li> 
+            <li> 
                <div class="dropdown">
-                 <button class="btn dropdown-toggle" type="button" data-toggle="dropdown">
+                 <button class="btn dropdown-toggle" type="button" data-toggle="dropdown collapse">
                     Repair 
                     <span class="glyphicon glyphicon-search">
                     </span>
@@ -67,18 +66,17 @@
             <li>
                <a href="howItworks.html"> How It works</a>
             </li>
-			      <li> 
+            <li> 
                <a href="Support.html"> Customer Support</a>
             </li>
-			      <li> 
+            <li> 
                <a href="Team.html">Our Team</a>
             </li>
-			      <li> 
+            <li> 
                <a href="Why.html"> Why Us</a>
             </li>
-        </ul> 
-		 
-      </div>
+        </ul>      
+      </nav>
       <div class="row two">
         <div class="col-xs-12 col-md-4">
           <img src="..//Images/devices.jpg" alt="Picture" class="img-responsive" style="width:400px;height:200px;">
@@ -104,5 +102,7 @@
         </div>
       </div>
      </div>
+     <script src="../Inbuilt/jquery.min.js"></script>
+     <script src="../Inbuilt/bootstrap.min.js"></script> 
   </body>
 </html>
