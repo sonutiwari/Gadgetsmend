@@ -14,9 +14,9 @@ html, body {
     margin-top : -140px;
     margin-left : -170px;
     background : #fff;
-    border-radius : 3px;
+    -webkit-border-radius : 3px;
     border : #ccc solid 1px;
-    box-shadow : 0 1px 2px rgba(0, 0, 0, 0.1);
+    -webkit-text-shadow : 01px;
 }
 form {
     margin : 0 auto;
@@ -35,7 +35,7 @@ p a {
     float : right;
     margin-top : -13px;
     margin-right : 20px;
-    transition : all 0.4s ease;
+    -webkit-transition : all 0.4s ease;
 }
 p a:hover {
     color : #555;
@@ -78,8 +78,8 @@ input[type="submit"] {
     font-weight : bold;
     color : #fff;
     background-color : #acd6ef;
-    border-radius : 30px;
+    -webkit-border-radius : 30px;
     border : #66add6 solid 1px;
-    box-shadow : 0 1px 2px rgba(0, 0, 0, 0.3), 0 1px 0 rgba(255, 255, 255, 0.5) inset;
+    -webkit-box-shadow : 0 1px 2px rgba(0, 0, 0, 0.3), 0 1px 0 rgba(255, 255, 255, 0.5) inset;
     cursor : pointer;
 }
